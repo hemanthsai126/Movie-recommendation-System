@@ -1,5 +1,7 @@
 A Presentation for Luma AI
 
+Open this link to test the app: https://movie-recommendation-system-hemanthsai.streamlit.app
+
 Overview
 
 This repository demonstrates a content-based recommendation system for movies using manual TF-IDF and cosine similarity. Given a user’s short text description, the system returns the top recommended movies from a small dataset of 500 entries. This solution is prepared as a presentation for Luma AI to showcase how quickly and effectively such a system can be built.
