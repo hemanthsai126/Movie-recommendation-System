@@ -38,6 +38,8 @@ Open a terminal in that folder, optionally activate your virtual environment, th
 Streamlit will provide a local URL (usually http://localhost:8501). Open that in your browser.
 Type a query (for example, "I love action movies set in space, with a comedic twist") and click Recommend.
 The top 5 matches, along with similarity scores, will be displayed.
+
+
 Example Usage (Streamlit)
 
 From Terminal: streamlit run app.py
@@ -50,18 +52,14 @@ Sample Output: User Query: I love action movies set in space, with a comedic twi
 Guardians of the Galaxy (similarity: 0.8623)
 Thor: Ragnarok (similarity: 0.8150)
 Star Wars: Episode IV (similarity: 0.7982) ...
+
+
+
+
 Salary Expectation
 
-My expected salary: $XXXX per month (Replace with your desired amount)
+My expected salary: $30 per hour
 
-Demo
 
-A short video demo is provided in demo.md, showing:
-
-Installation of dependencies
-Running streamlit run app.py
-Entering a sample query
-Viewing the top results
-Final Notes
 
 This project demonstrates a simple yet effective content-based recommender. You can easily enhance it with additional text processing or advanced weighting. The included dataset (output.csv) is kept small (500 rows) for quick demonstration.
